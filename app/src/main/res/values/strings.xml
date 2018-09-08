@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicturePuzzle</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Picture\nPuzzle\nGame</string>
+</resources>
